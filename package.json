@@ -30,8 +30,8 @@
         "apidoc": "^0.51.1",
         "commander": "^6.0.0",
         "generate-schema": "^2.6.0",
-        "lodash": "^4.17.20",
-        "path-to-regexp": "^6.1.0",
+        "lodash": "^4.17.23",
+        "path-to-regexp": "^6.3.0",
         "winston": "^3.3.3"
     },
     "peerDependencies": {
